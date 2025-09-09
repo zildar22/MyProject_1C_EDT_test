@@ -40,6 +40,6 @@
   </languages>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Организации</catalogs>
-  <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Работники</catalogs>
   <documents>Document.Приход</documents>
 </mdclass:Configuration>
