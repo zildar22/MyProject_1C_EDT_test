@@ -39,4 +39,6 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Валюты</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
