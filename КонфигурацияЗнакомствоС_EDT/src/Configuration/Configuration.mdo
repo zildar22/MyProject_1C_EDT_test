@@ -40,5 +40,5 @@
   </languages>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
-  <documents>Document.Документ</documents>
+  <documents>Document.Приход</documents>
 </mdclass:Configuration>
